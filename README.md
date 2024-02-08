@@ -13,3 +13,12 @@ Se recomienda crear una organización que sea la propietaria del repositorio pri
 3. Click en Organizaciones (Menú izquierdo)
 4. Click en Nueva organización
 5. Elegir plan y llenar datos
+
+## Como trabajar con 2 o más remotos
+
+Listar remotos
+ `git remote -v`
+
+ agregamos remotos
+
+ `git remote add NOMBRE_ORGANIZACION URL`
